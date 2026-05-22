@@ -1,1 +1,1 @@
-Mahjong oyunu çalışmamı sizlerle paylaşıyorum.
+Unity ile Mahjong oyunu çalışması.
