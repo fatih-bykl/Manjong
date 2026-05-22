@@ -1,1 +1,1 @@
-Mahjong oyunu çalışmamı sizlerle paylaşıyorum. Unity ile geliştirmekteyim.
+Mahjong oyunu çalışmamı sizlerle paylaşıyorum.
