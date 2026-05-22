@@ -1,1 +1,1 @@
-Unity ile Mahjong oyunu çalışması.
+Unity ile tasarladığım Android cihazlar için Mahjong oyunu.
